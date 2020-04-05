@@ -1,6 +1,6 @@
 # Trial
 
-##Purpose
+## Purpose
 This repository holds code that was developed by Shuky Persky for the purpose of studying and practicing Linux User-Space services given by the Linux Kernel.
 
 ##Usage / Sharing
